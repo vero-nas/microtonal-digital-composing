@@ -3,4 +3,4 @@ This is my Senior Project work. I am trying to develop a browser based platform 
 Based on: https://github.com/abbernie/tune/blob/master/README.md 
 
 Using:
-https://github.com/mattdiamond/Recorderjs, https://tonejs.github.io/ 
+https://github.com/mattdiamond/Recorderjs, https://tonejs.github.io/, https://github.com/addpipe/simple-recorderjs-demo/tree/master
